@@ -13,7 +13,7 @@
     echo $messege;
 
 
-
+      
 
 
 
@@ -26,11 +26,6 @@
 great1();
 echo"\n";
 great2();
-
-
-
-
-
 
 
 

@@ -2,12 +2,17 @@
 
 
 
-echo "function 3"
+function increment(){
+    static $counter = 0;
+    $counter++;
+    echo $counter ."\n";
+}
 
 
 
 
-
+increment();
+increment();
 
 
 
